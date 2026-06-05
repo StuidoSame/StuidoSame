@@ -47,11 +47,18 @@ My goal is to create simple products that give people a small sense of progress,
 ## 🧩 Projects 🧩
 
 | Project | Description |
+
 |---|---|
-| **Mapary** | A map-based memory and memo app |
-| **ODOW** | A small daily app built around simple interaction |
-| **Signal 404** | A location-based mystery experience |
-| **Waesseum** | A simple attendance app for small daily wins |
+
+| **Mapary** | A memory map app for revisiting thoughts, records, and memories by date and keyword |
+
+| **Runtronome** | A rhythm training metronome app for runners |
+
+| **LOCAUNT** | A location reminder app for leaving personal alerts on the map |
+
+| **ODOW** | A daily question app built around simple reflection |
+
+| **Wasseum** | A simple attendance app for small daily wins |
 
 <br />
 

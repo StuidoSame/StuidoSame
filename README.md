@@ -4,6 +4,11 @@
 
 <br />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=600&lines=Independent+App+Developer;Building+small+tools+for+small+wins;React+Native+%2F+Expo+%2F+TypeScript;SAME+STUDIO" />
+
+<br />
+<br />
+
 I'm an independent developer from Korea, building small mobile and web tools.  
 My goal is to create simple products that give people a small sense of progress, joy, or relief.
 
@@ -46,22 +51,22 @@ My goal is to create simple products that give people a small sense of progress,
 
 <table>
   <tr>
-    <td align="center" width="160">
-      <img src="./assets/mapary_icon.png" width="80" height="80" />
+    <td align="center" width="170">
+      <img src="./assets/mapary_icon.png" width="82" height="82" />
       <br />
       <strong>Mapary</strong>
       <br />
       <sub>Memory map app</sub>
     </td>
-    <td align="center" width="160">
-      <img src="./assets/runtronome_icon.png" width="80" height="80" />
+    <td align="center" width="170">
+      <img src="./assets/runtronome_icon.png" width="82" height="82" />
       <br />
       <strong>Runtronome</strong>
       <br />
       <sub>Rhythm trainer for runners</sub>
     </td>
-    <td align="center" width="160">
-      <img src="./assets/odow_icon.png" width="80" height="80" />
+    <td align="center" width="170">
+      <img src="./assets/odow_icon.png" width="82" height="82" />
       <br />
       <strong>ODOW</strong>
       <br />
@@ -69,22 +74,22 @@ My goal is to create simple products that give people a small sense of progress,
     </td>
   </tr>
   <tr>
-    <td align="center" width="160">
-      <img src="./assets/pepesnap_icon.png" width="80" height="80" />
+    <td align="center" width="170">
+      <img src="./assets/pepesnap_icon.png" width="82" height="82" />
       <br />
       <strong>PepeSnap</strong>
       <br />
       <sub>Daily photo mission app</sub>
     </td>
-    <td align="center" width="160">
-      <img src="./assets/404_icon.png" width="80" height="80" />
+    <td align="center" width="170">
+      <img src="./assets/404_icon.png" width="82" height="82" />
       <br />
       <strong>Signal 404</strong>
       <br />
       <sub>Location mystery experience</sub>
     </td>
-    <td align="center" width="160">
-      <img src="./assets/waesseum_icon.png" width="80" height="80" />
+    <td align="center" width="170">
+      <img src="./assets/waesseum_icon.png" width="82" height="82" />
       <br />
       <strong>Waesseum</strong>
       <br />
@@ -106,20 +111,13 @@ Not every app has to be huge. Sometimes, one small button can be enough.
 
 ## 📫 Contact 📫
 
-<img src="https://img.shields.io/badge/Website-samestudio.kr-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-contact@samestudio.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://samestudio.kr" target="_blank">
+  <img src="https://img.shields.io/badge/Website-samestudio.kr-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-<br />
-<br />
-
-## 📊 GitHub Stats 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=StuidoSame&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuidoSame&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="mailto:contact@samestudio.kr">
+  <img src="https://img.shields.io/badge/Email-contact@samestudio.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br />
 <br />

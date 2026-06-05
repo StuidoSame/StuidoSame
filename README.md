@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🐧 Welcome to Samechan's GitHub 🐧
-
-### Small tools, small wins — built by SAME STUDIO.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,19,24,30&text=Hi!%20I'm%20Hyein!&fontSize=58&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=111111&desc=Small%20tools,%20small%20wins%20—%20built%20by%20SAME%20STUDIO.&descAlign=50&descAlignY=58&descSize=17" />
 
 <br />
 
@@ -13,7 +11,7 @@ My goal is to create simple products that give people a small sense of progress,
 
 ## ✨ About Me ✨
 
-`Indie Developer` `Mobile Apps` `Web Apps` `SAME STUDIO`
+`Indie Developer` `Mobile Apps` `Web Apps` `SAME STUDIO` `Small Wins`
 
 <br />
 
@@ -29,7 +27,7 @@ My goal is to create simple products that give people a small sense of progress,
 
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Apple_App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" />
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 <br />
@@ -46,19 +44,54 @@ My goal is to create simple products that give people a small sense of progress,
 
 ## 🧩 Projects 🧩
 
-| Project | Description |
-
-|---|---|
-
-| **Mapary** | A memory map app for revisiting thoughts, records, and memories by date and keyword |
-
-| **Runtronome** | A rhythm training metronome app for runners |
-
-| **LOCAUNT** | A location reminder app for leaving personal alerts on the map |
-
-| **ODOW** | A daily question app built around simple reflection |
-
-| **Wasseum** | A simple attendance app for small daily wins |
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="./assets/mapary_icon.png" width="80" height="80" />
+      <br />
+      <strong>Mapary</strong>
+      <br />
+      <sub>Memory map app</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="./assets/runtronome_icon.png" width="80" height="80" />
+      <br />
+      <strong>Runtronome</strong>
+      <br />
+      <sub>Rhythm trainer for runners</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="./assets/odow_icon.png" width="80" height="80" />
+      <br />
+      <strong>ODOW</strong>
+      <br />
+      <sub>Daily question app</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <img src="./assets/pepesnap_icon.png" width="80" height="80" />
+      <br />
+      <strong>PepeSnap</strong>
+      <br />
+      <sub>Daily photo mission app</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="./assets/404_icon.png" width="80" height="80" />
+      <br />
+      <strong>Signal 404</strong>
+      <br />
+      <sub>Location mystery experience</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="./assets/waesseum_icon.png" width="80" height="80" />
+      <br />
+      <strong>Waesseum</strong>
+      <br />
+      <sub>Small attendance wins</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -79,10 +112,18 @@ Not every app has to be huge. Sometimes, one small button can be enough.
 <br />
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StuidoSame&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats 📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=StuidoSame&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br />
+<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StuidoSame&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuidoSame&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,19,24,30" />
 
 </div>

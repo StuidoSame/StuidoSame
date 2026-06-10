@@ -58,8 +58,6 @@ My goal is to create simple products that give people a small sense of progress,
 
 ## 🧩 Projects 🧩
 
-## 🧩 Projects 🧩
-
 <table>
   <tr>
     <td align="center" width="170">
@@ -77,14 +75,21 @@ My goal is to create simple products that give people a small sense of progress,
       <sub>Rhythm trainer for runners</sub>
     </td>
     <td align="center" width="170">
+      <img src="./assets/odow_icon.png" width="82" height="82" />
+      <br />
+      <strong>ODOW</strong>
+      <br />
+      <sub>Daily question app</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="170">
       <img src="./assets/locaunt_icon.png" width="82" height="82" />
       <br />
       <strong>Locaunt</strong>
       <br />
       <sub>Location reminder app</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="170">
       <img src="./assets/pepesnap_icon.png" width="82" height="82" />
       <br />
@@ -99,12 +104,18 @@ My goal is to create simple products that give people a small sense of progress,
       <br />
       <sub>Small attendance wins</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="170">
       <img src="./assets/tocklist_icon.png" width="82" height="82" />
       <br />
       <strong>Tocklist</strong>
       <br />
-      <sub>Simple task timer app</sub>
+      <sub>Simple task list app</sub>
+    </td>
+    <td align="center" width="170">
+    </td>
+    <td align="center" width="170">
     </td>
   </tr>
 </table>

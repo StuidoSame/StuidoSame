@@ -60,21 +60,21 @@ My goal is to create simple products that give people a small sense of progress,
 
 <table>
   <tr>
-    <td align="center" width="170">
+    <td align="center" valign="top" width="170">
       <img src="./assets/mapary_icon.png" width="82" height="82" />
       <br />
       <strong>Mapary</strong>
       <br />
       <sub>Memory map app</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" valign="top" width="170">
       <img src="./assets/runtronome_icon.png" width="82" height="82" />
       <br />
       <strong>Runtronome</strong>
       <br />
       <sub>Rhythm trainer for runners</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" valign="top" width="170">
       <img src="./assets/odow_icon.png" width="82" height="82" />
       <br />
       <strong>ODOW</strong>
@@ -83,21 +83,21 @@ My goal is to create simple products that give people a small sense of progress,
     </td>
   </tr>
   <tr>
-    <td align="center" width="170">
+    <td align="center" valign="top" width="170">
       <img src="./assets/locaunt_icon.png" width="82" height="82" />
       <br />
       <strong>Locaunt</strong>
       <br />
       <sub>Location reminder app</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" valign="top" width="170">
       <img src="./assets/pepesnap_icon.png" width="82" height="82" />
       <br />
       <strong>PepeSnap</strong>
       <br />
       <sub>Daily photo mission app</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" valign="top" width="170">
       <img src="./assets/waesseum_icon.png" width="82" height="82" />
       <br />
       <strong>Waesseum</strong>
@@ -106,16 +106,16 @@ My goal is to create simple products that give people a small sense of progress,
     </td>
   </tr>
   <tr>
-    <td align="center" width="170">
+    <td align="center" valign="top" width="170">
       <img src="./assets/tocklist_icon.png" width="82" height="82" />
       <br />
       <strong>Tocklist</strong>
       <br />
       <sub>Simple task list app</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" valign="top" width="170">
     </td>
-    <td align="center" width="170">
+    <td align="center" valign="top" width="170">
     </td>
   </tr>
 </table>

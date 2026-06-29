@@ -121,7 +121,7 @@ My goal is to create simple products that give people a small sense of progress,
       <sub>Weather wish app</sub>
     </td>
     <td align="center" valign="top" width="170">
-      <img src="./assets/skkoo_icon.png" width="82" height="82" />
+      <img src="./assets/Skkoo_icon.png" width="82" height="82" />
       <br />
       <strong>Skkoo</strong>
       <br />

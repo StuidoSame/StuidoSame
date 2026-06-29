@@ -114,10 +114,6 @@ My goal is to create simple products that give people a small sense of progress,
       <sub>Simple task list app</sub>
     </td>
     <td align="center" valign="top" width="170">
-    </td>
-    <td align="center" valign="top" width="170">
-    </td>
-    <td align="center" valign="top" width="170">
       <img src="./assets/terubozu_icon.png" width="82" height="82" />
       <br />
       <strong>TeruBozu</strong>

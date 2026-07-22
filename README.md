@@ -179,22 +179,6 @@
 <br />
 <br />
 
-<!-- Static philosophy section -->
-<h2>✨ BUILT WITH CARE</h2>
-
-<p>
-  Small software can still create meaningful moments.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SIMPLE-111111?style=for-the-badge" alt="Simple" />
-  <img src="https://img.shields.io/badge/PRACTICAL-7B61FF?style=for-the-badge" alt="Practical" />
-  <img src="https://img.shields.io/badge/EMOTIONAL-FF7EB6?style=for-the-badge" alt="Emotional" />
-</p>
-
-<br />
-<br />
-
 <!-- Static contact heading -->
 <h2>📫 CONTACT</h2>
 
@@ -215,13 +199,5 @@
   alt="Email"
 />
 </a>
-
-<br />
-<br />
-<br />
-
-<sub>
-  Small tools, small wins — SAME STUDIO.
-</sub>
 
 </div>

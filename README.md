@@ -6,15 +6,10 @@
   alt="Animated introduction"
 />
 
-<br />
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Small+tools%2C+small+wins.;Building+mobile+and+web+apps.;React+Native+%2F+Expo+%2F+TypeScript"
   alt="Animated subtitle"
 />
-
-<br />
-<br />
 
 <!-- Animated Tech Icons -->
 <img

@@ -77,6 +77,7 @@
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Mapary on the App Store" />
 </a>
 &nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.samechan.Locary">
 <img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="Mapary for Android" />
 </td>
 

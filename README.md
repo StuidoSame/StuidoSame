@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Top animation only -->
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2400&pause=900&color=7B61FF&center=true&vCenter=true&repeat=true&width=760&height=70&lines=Hi!+I'm+Samechan!;Independent+App+Developer;Welcome+to+SAME+STUDIO"
   alt="Animated introduction"
@@ -24,19 +25,23 @@
 <br />
 <br />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=1800&pause=1600&color=F778BA&center=true&vCenter=true&repeat=true&width=650&height=55&lines=%F0%9F%A7%A9+SAME+STUDIO+PROJECTS;%F0%9F%93%B1+SMALL+APPS%2C+SMALL+WINS"
-  alt="SAME STUDIO Projects"
-/>
+<!-- Static projects heading -->
+<h2>📱 SMALL APPS, SMALL WINS</h2>
 
-<br />
+<p>
+  Simple mobile tools designed and built by
+  <strong>SAME STUDIO</strong>
+</p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=8B949E&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Record+%E2%80%A2+Place+%E2%80%A2+Rhythm+%E2%80%A2+Memory;Weather+%E2%80%A2+Diary+%E2%80%A2+Photo+%E2%80%A2+Schedule;Designed+and+built+by+SAME+STUDIO"
-  alt="Project categories"
-/>
+<p>
+  <img src="https://img.shields.io/badge/RECORD-F778BA?style=flat-square" alt="Record" />
+  <img src="https://img.shields.io/badge/PLACE-0D96F6?style=flat-square" alt="Place" />
+  <img src="https://img.shields.io/badge/RHYTHM-7B61FF?style=flat-square" alt="Rhythm" />
+  <img src="https://img.shields.io/badge/DIARY-FF7EB6?style=flat-square" alt="Diary" />
+  <img src="https://img.shields.io/badge/WEATHER-147EFB?style=flat-square" alt="Weather" />
+  <img src="https://img.shields.io/badge/PHOTO-F38020?style=flat-square" alt="Photo" />
+</p>
 
-<br />
 <br />
 
 <table>
@@ -174,19 +179,28 @@
 <br />
 <br />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=1800&pause=1600&color=7B61FF&center=true&vCenter=true&repeat=true&width=550&height=55&lines=%F0%9F%93%AB+CONTACT+ME;%F0%9F%A4%9D+LET'S+CONNECT"
-  alt="Contact"
-/>
+<!-- Static philosophy section -->
+<h2>✨ BUILT WITH CARE</h2>
+
+<p>
+  Small software can still create meaningful moments.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SIMPLE-111111?style=for-the-badge" alt="Simple" />
+  <img src="https://img.shields.io/badge/PRACTICAL-7B61FF?style=for-the-badge" alt="Practical" />
+  <img src="https://img.shields.io/badge/EMOTIONAL-FF7EB6?style=for-the-badge" alt="Emotional" />
+</p>
 
 <br />
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Visit+SAME+STUDIO;Send+me+an+email;Let's+build+small+wins+together"
-  alt="Contact message"
-/>
-
 <br />
+
+<!-- Static contact heading -->
+<h2>📫 CONTACT</h2>
+
+<p>
+  Visit SAME STUDIO or send me an email.
+</p>
 
 <a href="https://samestudio.kr">
 <img
@@ -204,10 +218,10 @@
 
 <br />
 <br />
+<br />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Thanks+for+visiting!;Small+tools%2C+small+wins+%E2%80%94+SAME+STUDIO."
-  alt="Closing message"
-/>
+<sub>
+  Small tools, small wins — SAME STUDIO.
+</sub>
 
 </div>

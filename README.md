@@ -50,8 +50,6 @@
 />
 
 <br />
-<br />
-
 <!-- Static projects heading -->
 <h2>📱 PROJECT</h2>
 

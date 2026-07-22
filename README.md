@@ -16,10 +16,61 @@
 <br />
 <br />
 
+<!-- Animated Tech Icons -->
 <img
-  src="https://komarev.com/ghpvc/?username=Samechan&label=PROFILE+VIEWS&style=for-the-badge&color=7B61FF"
-  alt="Profile views"
+  src="https://techstack-generator.vercel.app/react-icon.svg"
+  width="64"
+  height="64"
+  alt="React"
 />
+<img
+  src="https://techstack-generator.vercel.app/ts-icon.svg"
+  width="64"
+  height="64"
+  alt="TypeScript"
+/>
+<img
+  src="https://techstack-generator.vercel.app/js-icon.svg"
+  width="64"
+  height="64"
+  alt="JavaScript"
+/>
+<img
+  src="https://techstack-generator.vercel.app/python-icon.svg"
+  width="64"
+  height="64"
+  alt="Python"
+/>
+<img
+  src="https://techstack-generator.vercel.app/github-icon.svg"
+  width="64"
+  height="64"
+  alt="GitHub"
+/>
+<img
+  src="https://techstack-generator.vercel.app/aws-icon.svg"
+  width="64"
+  height="64"
+  alt="AWS"
+/>
+
+<br />
+<br />
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
+</p>
 
 <br />
 <br />

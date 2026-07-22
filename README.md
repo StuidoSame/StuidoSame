@@ -77,6 +77,7 @@
 <img src="./assets/mapary_icon.png" width="82" height="82" alt="Mapary" />
 <br />
 <strong>Mapary</strong>
+<br /><br />
 <img src="https://img.shields.io/badge/PLACE-FF7EB6?style=flat-square" alt="Place" />
 <br /><br />
 <a href="https://apps.apple.com/kr/app/mapary-%EC%A7%80%EB%8F%84-%EA%B8%B0%EB%B0%98-%EB%A9%94%EB%AA%A8%EC%95%B1/id6760998507">
@@ -90,8 +91,6 @@
 <img src="./assets/runtronome_icon.png" width="82" height="82" alt="Runtronome" />
 <br />
 <strong>Runtronome</strong>
-<br />
-<sub>Rhythm trainer for runners</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/RHYTHM-7B61FF?style=flat-square" alt="Rhythm" />
 <br /><br />
@@ -108,8 +107,6 @@
 <img src="./assets/odow_icon.png" width="82" height="82" alt="ODOW" />
 <br />
 <strong>ODOW</strong>
-<br />
-<sub>Daily question app</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/RECORD-F778BA?style=flat-square" alt="Record" />
 <br /><br />
@@ -122,8 +119,6 @@
 <img src="./assets/locaunt_icon.png" width="82" height="82" alt="LOCAUNT" />
 <br />
 <strong>LOCAUNT</strong>
-<br />
-<sub>Location reminder app</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/REMINDER-0D96F6?style=flat-square" alt="Reminder" />
 <br /><br />
@@ -138,8 +133,6 @@
 <img src="./assets/pepesnap_icon.png" width="82" height="82" alt="PepeSnap" />
 <br />
 <strong>PepeSnap</strong>
-<br />
-<sub>Daily photo mission app</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/PHOTO-F38020?style=flat-square" alt="Photo" />
 <br /><br />
@@ -152,8 +145,6 @@
 <img src="./assets/waesseum_icon.png" width="82" height="82" alt="Waesseum" />
 <br />
 <strong>Waesseum</strong>
-<br />
-<sub>Small attendance wins</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/CHECK--IN-3FCF8E?style=flat-square" alt="Check in" />
 <br /><br />
@@ -166,8 +157,6 @@
 <img src="./assets/tocklist_icon.png" width="82" height="82" alt="Tocklist" />
 <br />
 <strong>Tocklist</strong>
-<br />
-<sub>24-hour planning app</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/SCHEDULE-61DAFB?style=flat-square" alt="Schedule" />
 <br /><br />
@@ -180,8 +169,6 @@
 <img src="./assets/terubozu_icon.png" width="82" height="82" alt="TeruBozu" />
 <br />
 <strong>TeruBozu</strong>
-<br />
-<sub>Weather wish app</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/WEATHER-147EFB?style=flat-square" alt="Weather" />
 <br /><br />
@@ -196,8 +183,6 @@
 <img src="./assets/Skkoo_icon.png" width="82" height="82" alt="SKKOO" />
 <br />
 <strong>SKKOO</strong>
-<br />
-<sub>Sticker diary app</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/DIARY-FF7EB6?style=flat-square" alt="Diary" />
 <br /><br />
@@ -210,31 +195,16 @@
 <img src="./assets/feeloo_icon.png" width="82" height="82" alt="Feeloo" />
 <br />
 <strong>Feeloo</strong>
-<br />
-<sub>Emotion record app</sub>
 <br /><br />
 <img src="https://img.shields.io/badge/EMOTION-A371F7?style=flat-square" alt="Emotion" />
 <br /><br />
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="24" height="24" alt="Feeloo for iOS" />
 </td>
 
-<td align="center" valign="top" width="170">
-<br />
-<br />
-<br />
-</td>
-
-<td align="center" valign="top" width="170">
-<br />
-<br />
-<br />
-</td>
+<td align="center" valign="top" width="170"></td>
+<td align="center" valign="top" width="170"></td>
 </tr>
 </table>
-
-<br />
-<br />
-<br />
 
 <!-- Static contact heading -->
 <h2>📫 CONTACT</h2>

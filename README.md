@@ -77,9 +77,6 @@
 <img src="./assets/mapary_icon.png" width="82" height="82" alt="Mapary" />
 <br />
 <strong>Mapary</strong>
-<br />
-<sub>Memory map app</sub>
-<br /><br />
 <img src="https://img.shields.io/badge/PLACE-FF7EB6?style=flat-square" alt="Place" />
 <br /><br />
 <a href="https://apps.apple.com/kr/app/mapary-%EC%A7%80%EB%8F%84-%EA%B8%B0%EB%B0%98-%EB%A9%94%EB%AA%A8%EC%95%B1/id6760998507">

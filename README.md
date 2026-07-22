@@ -26,12 +26,7 @@
 <br />
 
 <!-- Static projects heading -->
-<h2>📱 SMALL APPS, SMALL WINS</h2>
-
-<p>
-  Simple mobile tools designed and built by
-  <strong>SAME STUDIO</strong>
-</p>
+<h2>📱 PROJECT</h2>
 
 <p>
   <img src="https://img.shields.io/badge/RECORD-F778BA?style=flat-square" alt="Record" />

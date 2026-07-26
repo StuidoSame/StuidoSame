@@ -37,12 +37,6 @@
   alt="Python"
 />
 <img
-  src="https://techstack-generator.vercel.app/kotlin-icon.svg"
-  width="64"
-  height="64"
-  alt="Kotlin"
-/>
-<img
   src="https://techstack-generator.vercel.app/swift-icon.svg"
   width="64"
   height="64"

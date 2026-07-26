@@ -48,6 +48,19 @@
   height="64"
   alt="AWS"
 />
+<img
+  src="https://skillicons.dev/icons?i=swift"
+  width="64"
+  height="64"
+  alt="Swift"
+/>
+<img
+  src="https://skillicons.dev/icons?i=kotlin"
+  width="64"
+  height="64"
+  alt="Kotlin"
+/>
+
 
 <br />
 <!-- Static projects heading -->

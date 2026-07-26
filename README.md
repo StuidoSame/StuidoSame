@@ -37,6 +37,18 @@
   alt="Python"
 />
 <img
+  src="https://techstack-generator.vercel.app/kotlin-icon.svg"
+  width="64"
+  height="64"
+  alt="Kotlin"
+/>
+<img
+  src="https://techstack-generator.vercel.app/swift-icon.svg"
+  width="64"
+  height="64"
+  alt="Swift"
+/>
+<img
   src="https://techstack-generator.vercel.app/github-icon.svg"
   width="64"
   height="64"
@@ -47,18 +59,6 @@
   width="64"
   height="64"
   alt="AWS"
-/>
-<img
-  src="https://skillicons.dev/icons?i=swift"
-  width="64"
-  height="64"
-  alt="Swift"
-/>
-<img
-  src="https://skillicons.dev/icons?i=kotlin"
-  width="64"
-  height="64"
-  alt="Kotlin"
 />
 
 

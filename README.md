@@ -80,7 +80,7 @@
 <br />
 <img src="https://img.shields.io/badge/PLACE-FF7EB6?style=flat-square" alt="Place" />
 <br />
-<a href="https://apps.apple.com/kr/app/mapary-%EC%A7%80%EB%8F%84-%EA%B8%B0%EB%B0%98-%EB%A9%94%EB%AA%A8%EC%95%B1/id6760998507">
+<a href="[https://apps.apple.com/kr/app/mapary-%EC%A7%80%EB%8F%84-%EA%B8%B0%EB%B0%98-%EB%A9%94%EB%AA%A8%EC%95%B1/id6760998507](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/8a/bf/878abf3c-37d6-8d06-cc37-5ce481f05fa3/Placeholder.mill/200x200bb-75.webp)">
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Mapary on the App Store" />
 </a>
 &nbsp;

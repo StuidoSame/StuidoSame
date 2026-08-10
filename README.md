@@ -91,7 +91,7 @@
 <td align="center" valign="top" width="145">
 <img src="./assets/runtronome_icon.png" width="68" height="68" alt="Runtronome" />
 <br />
-<strong>Runtronome</strong>
+<strong>Pulto</strong>
 <br />
 <img src="https://img.shields.io/badge/RHYTHM-7B61FF?style=flat-square" alt="Rhythm" />
 <br />

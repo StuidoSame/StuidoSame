@@ -119,7 +119,7 @@
 <td align="center" valign="top" width="145">
 <img src="./assets/locaunt_icon.png" width="68" height="68" alt="LOCAUNT" />
 <br />
-<strong>LOCAUNT</strong>
+<strong>PINI</strong>
 <br />
 <img src="https://img.shields.io/badge/REMINDER-0D96F6?style=flat-square" alt="Reminder" />
 <br />

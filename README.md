@@ -105,7 +105,7 @@
 </td>
 
 <td align="center" valign="top" width="145">
-<img src="./assets/odow_icon.png" width="68" height="68" alt="ODOW" />
+<img src="./assets/evrune_icon.png" width="68" height="68" alt="ODOW" />
 <br />
 <strong>EVRUNE</strong>
 <br />
@@ -117,7 +117,7 @@
 </td>
 
 <td align="center" valign="top" width="145">
-<img src="./assets/locaunt_icon.png" width="68" height="68" alt="LOCAUNT" />
+<img src="./assets/pini_icon.png" width="68" height="68" alt="LOCAUNT" />
 <br />
 <strong>PINI</strong>
 <br />

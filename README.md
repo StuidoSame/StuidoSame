@@ -107,9 +107,9 @@
 <td align="center" valign="top" width="145">
 <img src="./assets/odow_icon.png" width="68" height="68" alt="ODOW" />
 <br />
-<strong>ODOW</strong>
+<strong>EVRUNE</strong>
 <br />
-<img src="https://img.shields.io/badge/RECORD-F778BA?style=flat-square" alt="Record" />
+<img src="[https://img.shields.io/badge/RECORD-F778BA?style=flat-square](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/70/4f/47704ff1-e6a9-ff7f-8d6e-f024ec07b4ac/Placeholder.mill/400x400bb-75.webp)" alt="Record" />
 <br />
 <a href="https://apps.apple.com/kr/app/odow/id6766725193">
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="ODOW on the App Store" />

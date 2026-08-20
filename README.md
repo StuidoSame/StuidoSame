@@ -55,8 +55,8 @@
   alt="AWS"
 />
 
-
 <br />
+
 <!-- Static projects heading -->
 <h2>📱 PROJECT</h2>
 
@@ -72,7 +72,9 @@
 <br />
 
 <table>
+
 <tr>
+
 <td align="center" valign="top" width="145">
 <img src="./assets/mapary_icon.png" width="68" height="68" alt="Mapary" />
 <br />
@@ -80,56 +82,67 @@
 <br />
 <img src="https://img.shields.io/badge/PLACE-FF7EB6?style=flat-square" alt="Place" />
 <br />
-<a href="[https://apps.apple.com/kr/app/mapary-%EC%A7%80%EB%8F%84-%EA%B8%B0%EB%B0%98-%EB%A9%94%EB%AA%A8%EC%95%B1/id6760998507](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/8a/bf/878abf3c-37d6-8d06-cc37-5ce481f05fa3/Placeholder.mill/200x200bb-75.webp)">
+<a href="https://apps.apple.com/kr/app/mapary-%EC%A7%80%EB%8F%84-%EA%B8%B0%EB%B0%98-%EB%A9%94%EB%AA%A8%EC%95%B1/id6760998507">
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Mapary on the App Store" />
 </a>
 &nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.samechan.Locary">
-<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="Mapary for Android" />
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="Mapary on Google Play" />
+</a>
 </td>
 
 <td align="center" valign="top" width="145">
-<img src="./assets/runtronome_icon.png" width="68" height="68" alt="Runtronome" />
+<img src="./assets/runtronome_icon.png" width="68" height="68" alt="Pulto" />
 <br />
 <strong>Pulto</strong>
 <br />
 <img src="https://img.shields.io/badge/RHYTHM-7B61FF?style=flat-square" alt="Rhythm" />
 <br />
 <a href="https://apps.apple.com/kr/app/runtronome/id6762429079">
-<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Runtronome on the App Store" />
+<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Pulto on the App Store" />
 </a>
 &nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.samestudio.Runtronome">
-<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="Runtronome on Google Play" />
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="Pulto on Google Play" />
 </a>
 </td>
 
 <td align="center" valign="top" width="145">
-<img src="./assets/evrune_icon.png" width="68" height="68" alt="ODOW" />
+<img src="./assets/evrune_icon.png" width="68" height="68" alt="EVRUNE" />
 <br />
 <strong>EVRUNE</strong>
 <br />
 <img src="https://img.shields.io/badge/RECORD-F778BA?style=flat-square" alt="Record" />
 <br />
 <a href="https://apps.apple.com/kr/app/odow/id6766725193">
-<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="ODOW on the App Store" />
+<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="EVRUNE on the App Store" />
+</a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.samestudio.evrune">
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="EVRUNE on Google Play" />
 </a>
 </td>
 
 <td align="center" valign="top" width="145">
-<img src="./assets/pini_icon.png" width="68" height="68" alt="LOCAUNT" />
+<img src="./assets/pini_icon.png" width="68" height="68" alt="PINI" />
 <br />
 <strong>PINI</strong>
 <br />
 <img src="https://img.shields.io/badge/REMINDER-0D96F6?style=flat-square" alt="Reminder" />
 <br />
 <a href="https://apps.apple.com/kr/app/locaunt-지도-위에-남기는-나만의-알림/id6769651582">
-<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="LOCAUNT on the App Store" />
+<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="PINI on the App Store" />
+</a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.anonymous.spotcha">
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="PINI on Google Play" />
 </a>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" valign="top" width="145">
 <img src="./assets/pepesnap_icon.png" width="68" height="68" alt="PepeSnap" />
 <br />
@@ -176,10 +189,16 @@
 <a href="https://apps.apple.com/kr/app/terubozu/id6789223358">
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="TeruBozu on the App Store" />
 </a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.samestudio.TeruBozu">
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="TeruBozu on Google Play" />
+</a>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" valign="top" width="145">
 <img src="./assets/Skkoo_icon.png" width="68" height="68" alt="SKKOO" />
 <br />
@@ -203,8 +222,11 @@
 </td>
 
 <td align="center" valign="top" width="145"></td>
+
 <td align="center" valign="top" width="145"></td>
+
 </tr>
+
 </table>
 
 <!-- Static contact heading -->

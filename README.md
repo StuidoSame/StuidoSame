@@ -153,6 +153,8 @@
 <a href="https://apps.apple.com/kr/app/pepesnap-오늘의-도형-미션/id6781632351">
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="PepeSnap on the App Store" />
 </a>
+&nbsp;
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="PepeSnap for Android" />
 </td>
 
 <td align="center" valign="top" width="145">
@@ -165,6 +167,8 @@
 <a href="https://apps.apple.com/kr/app/waesseum/id6781834756">
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Waesseum on the App Store" />
 </a>
+&nbsp;
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="Waesseum for Android" />
 </td>
 
 <td align="center" valign="top" width="145">

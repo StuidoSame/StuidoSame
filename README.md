@@ -168,9 +168,10 @@
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Waesseum on the App Store" />
 </a>
 &nbsp;
-<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="Waesseum for Android" />
+<a href="https://play.google.com/store/apps/details?id=com.samestudio.waesseum">
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="Waesseum on Google Play" />
+</a>
 </td>
-
 <td align="center" valign="top" width="145">
 <img src="./assets/tocklist_icon.png" width="68" height="68" alt="Tocklist" />
 <br />

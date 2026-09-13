@@ -182,6 +182,8 @@
 <a href="https://apps.apple.com/kr/app/tocklist/id6782831874">
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Tocklist on the App Store" />
 </a>
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="TeruBozu on Google Play" />
+</a>
 </td>
 
 <td align="center" valign="top" width="145">
@@ -213,6 +215,8 @@
 <br />
 <a href="https://apps.apple.com/kr/app/skkoo/id6791977588">
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="SKKOO on the App Store" />
+</a>
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="TeruBozu on Google Play" />
 </a>
 </td>
 

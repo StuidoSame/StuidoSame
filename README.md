@@ -216,20 +216,6 @@
 </a>
 </td>
 
-<td align="center" valign="top" width="145">
-<img src="./assets/feeloo_icon.png" width="68" height="68" alt="Feeloo" />
-<br />
-<strong>Feeloo</strong>
-<br />
-<img src="https://img.shields.io/badge/EMOTION-A371F7?style=flat-square" alt="Emotion" />
-<br />
-<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Feeloo for iOS" />
-</td>
-
-<td align="center" valign="top" width="145"></td>
-
-<td align="center" valign="top" width="145"></td>
-
 </tr>
 
 </table>

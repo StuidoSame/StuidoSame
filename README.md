@@ -97,7 +97,7 @@
 
 <!-- Pulto -->
 <td align="center" valign="top" width="145">
-<img src="./assets/runtronome_icon.png" width="68" height="68" alt="Pulto" />
+<img src="./assets/pulto.png" width="68" height="68" alt="Pulto" />
 <br />
 <strong>Pulto</strong>
 <br />
@@ -157,7 +157,7 @@
 
 <!-- Tocobi -->
 <td align="center" valign="top" width="145">
-<img src="./assets/tocklist_icon.png" width="68" height="68" alt="Tocobi" />
+<img src="./assets/tocobi.png" width="68" height="68" alt="Tocobi" />
 <br />
 <strong>Tocobi</strong>
 <br />

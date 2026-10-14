@@ -1,13 +1,14 @@
+
 <div align="center">
 
 <!-- Top animation only -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2400&pause=900&color=7B61FF&center=true&vCenter=true&repeat=true&width=760&height=70&lines=Hi!+I'm+Samechan!;Independent+App+Developer;Welcome+to+SAME+STUDIO"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=34&amp;duration=2400&amp;pause=900&amp;color=7B61FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=70&amp;lines=Hi!+I'm+Samechan!;Independent+App+Developer;Welcome+to+SAME+STUDIO"
   alt="Animated introduction"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Small+tools%2C+small+wins.;Building+mobile+and+web+apps.;React+Native+%2F+Expo+%2F+TypeScript"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=800&amp;color=8B949E&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=45&amp;lines=Small+tools%2C+small+wins.;Building+mobile+and+web+apps.;React+Native+%2F+Expo+%2F+TypeScript"
   alt="Animated subtitle"
 />
 
@@ -66,15 +67,18 @@
   <img src="https://img.shields.io/badge/RHYTHM-7B61FF?style=flat-square" alt="Rhythm" />
   <img src="https://img.shields.io/badge/DIARY-FF7EB6?style=flat-square" alt="Diary" />
   <img src="https://img.shields.io/badge/WEATHER-147EFB?style=flat-square" alt="Weather" />
-  <img src="https://img.shields.io/badge/PHOTO-F38020?style=flat-square" alt="Photo" />
+  <img src="https://img.shields.io/badge/CHECK--IN-3FCF8E?style=flat-square" alt="Check in" />
+  <img src="https://img.shields.io/badge/SCHEDULE-61DAFB?style=flat-square" alt="Schedule" />
 </p>
 
 <br />
 
-<table>
+<!-- Projects Row 1: 4 Apps -->
+<table align="center">
 
 <tr>
 
+<!-- Mapary -->
 <td align="center" valign="top" width="145">
 <img src="./assets/mapary_icon.png" width="68" height="68" alt="Mapary" />
 <br />
@@ -91,6 +95,7 @@
 </a>
 </td>
 
+<!-- Pulto -->
 <td align="center" valign="top" width="145">
 <img src="./assets/runtronome_icon.png" width="68" height="68" alt="Pulto" />
 <br />
@@ -107,6 +112,7 @@
 </a>
 </td>
 
+<!-- EVRUNE -->
 <td align="center" valign="top" width="145">
 <img src="./assets/evrune_icon.png" width="68" height="68" alt="EVRUNE" />
 <br />
@@ -123,40 +129,7 @@
 </a>
 </td>
 
-<td align="center" valign="top" width="145">
-<img src="./assets/pini_icon.png" width="68" height="68" alt="PINI" />
-<br />
-<strong>PINI</strong>
-<br />
-<img src="https://img.shields.io/badge/REMINDER-0D96F6?style=flat-square" alt="Reminder" />
-<br />
-<a href="https://apps.apple.com/kr/app/locaunt-지도-위에-남기는-나만의-알림/id6769651582">
-<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="PINI on the App Store" />
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.anonymous.spotcha">
-<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="PINI on Google Play" />
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" valign="top" width="145">
-<img src="./assets/pepesnap_icon.png" width="68" height="68" alt="PepeSnap" />
-<br />
-<strong>PepeSnap</strong>
-<br />
-<img src="https://img.shields.io/badge/PHOTO-F38020?style=flat-square" alt="Photo" />
-<br />
-<a href="https://apps.apple.com/kr/app/pepesnap-오늘의-도형-미션/id6781632351">
-<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="PepeSnap on the App Store" />
-</a>
-&nbsp;
-<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="PepeSnap for Android" />
-</td>
-
+<!-- Waesseum -->
 <td align="center" valign="top" width="145">
 <img src="./assets/waesseum_icon.png" width="68" height="68" alt="Waesseum" />
 <br />
@@ -172,19 +145,30 @@
 <img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="Waesseum on Google Play" />
 </a>
 </td>
+
+</tr>
+
+</table>
+
+<!-- Projects Row 2: 3 Apps (Centered) -->
+<table align="center">
+
+<tr>
+
+<!-- Tocobi -->
 <td align="center" valign="top" width="145">
-<img src="./assets/tocklist_icon.png" width="68" height="68" alt="Tocklist" />
+<img src="./assets/tocklist_icon.png" width="68" height="68" alt="Tocobi" />
 <br />
-<strong>Tocklist</strong>
+<strong>Tocobi</strong>
 <br />
 <img src="https://img.shields.io/badge/SCHEDULE-61DAFB?style=flat-square" alt="Schedule" />
 <br />
 <a href="https://apps.apple.com/kr/app/tocklist/id6782831874">
-<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Tocklist on the App Store" />
+<img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="Tocobi on the App Store" />
 </a>
-<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="TeruBozu on Google Play" />
 </td>
 
+<!-- TeruBozu -->
 <td align="center" valign="top" width="145">
 <img src="./assets/terubozu_icon.png" width="68" height="68" alt="TeruBozu" />
 <br />
@@ -201,10 +185,7 @@
 </a>
 </td>
 
-</tr>
-
-<tr>
-
+<!-- SKKOO -->
 <td align="center" valign="top" width="145">
 <img src="./assets/Skkoo_icon.png" width="68" height="68" alt="SKKOO" />
 <br />
@@ -215,12 +196,13 @@
 <a href="https://apps.apple.com/kr/app/skkoo/id6791977588">
 <img src="https://cdn.simpleicons.org/apple/8B949E" width="22" height="22" alt="SKKOO on the App Store" />
 </a>
-<img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="TeruBozu on Google Play" />
 </td>
 
 </tr>
 
 </table>
+
+<br />
 
 <!-- Static contact heading -->
 <h2>📫 CONTACT</h2>
@@ -231,14 +213,14 @@
 
 <a href="https://samestudio.kr">
 <img
-  src="https://img.shields.io/badge/Website-samestudio.kr-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white"
+  src="https://img.shields.io/badge/Website-samestudio.kr-7B61FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"
   alt="SAME STUDIO website"
 />
 </a>
 
 <a href="mailto:contact@samestudio.kr">
 <img
-  src="https://img.shields.io/badge/Email-contact@samestudio.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  src="https://img.shields.io/badge/Email-contact@samestudio.kr-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
   alt="Email"
 />
 </a>

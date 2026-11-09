@@ -12,45 +12,45 @@
   alt="Animated subtitle"
 />
 
-<!-- Animated Tech Icons -->
+<!-- Original Animated Tech Icons - Locally Hosted -->
 <img
-  src="https://techstack-generator.vercel.app/react-icon.svg"
+  src="./assets/techstack/react-icon.svg"
   width="64"
   height="64"
   alt="React"
 />
 <img
-  src="https://techstack-generator.vercel.app/ts-icon.svg"
+  src="./assets/techstack/ts-icon.svg"
   width="64"
   height="64"
   alt="TypeScript"
 />
 <img
-  src="https://techstack-generator.vercel.app/js-icon.svg"
+  src="./assets/techstack/js-icon.svg"
   width="64"
   height="64"
   alt="JavaScript"
 />
 <img
-  src="https://techstack-generator.vercel.app/python-icon.svg"
+  src="./assets/techstack/python-icon.svg"
   width="64"
   height="64"
   alt="Python"
 />
 <img
-  src="https://techstack-generator.vercel.app/swift-icon.svg"
+  src="./assets/techstack/swift-icon.svg"
   width="64"
   height="64"
   alt="Swift"
 />
 <img
-  src="https://techstack-generator.vercel.app/github-icon.svg"
+  src="./assets/techstack/github-icon.svg"
   width="64"
   height="64"
   alt="GitHub"
 />
 <img
-  src="https://techstack-generator.vercel.app/aws-icon.svg"
+  src="./assets/techstack/aws-icon.svg"
   width="64"
   height="64"
   alt="AWS"

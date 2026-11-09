@@ -12,45 +12,45 @@
   alt="Animated subtitle"
 />
 
-<!-- Original Animated Tech Icons - Locally Hosted -->
+<!-- Animated Tech Icons -->
 <img
-  src="./assets/techstack/react-icon.svg"
+  src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/react-icon.svg"
   width="64"
   height="64"
   alt="React"
 />
 <img
-  src="./assets/techstack/ts-icon.svg"
+  src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/ts-icon.svg"
   width="64"
   height="64"
   alt="TypeScript"
 />
 <img
-  src="./assets/techstack/js-icon.svg"
+  src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/js-icon.svg"
   width="64"
   height="64"
   alt="JavaScript"
 />
 <img
-  src="./assets/techstack/python-icon.svg"
+  src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/python-icon.svg"
   width="64"
   height="64"
   alt="Python"
 />
 <img
-  src="./assets/techstack/swift-icon.svg"
+  src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/swift-icon.svg"
   width="64"
   height="64"
   alt="Swift"
 />
 <img
-  src="./assets/techstack/github-icon.svg"
+  src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/github-icon.svg"
   width="64"
   height="64"
   alt="GitHub"
 />
 <img
-  src="./assets/techstack/aws-icon.svg"
+  src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/aws-icon.svg"
   width="64"
   height="64"
   alt="AWS"

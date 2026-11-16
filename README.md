@@ -3,7 +3,7 @@
 
 <!-- Top animation only -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=34&amp;duration=2400&amp;pause=900&amp;color=7B61FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=70&amp;lines=Hi!+I'm+Samechan!;Independent+App+Developer;Welcome+to+SAME+STUDIO"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=34&amp;duration=2400&amp;pause=900&amp;color=7B61FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=70&amp;lines=Hi!+I%27m+Samechan!;Independent+App+Developer;Welcome+to+SAME+STUDIO"
   alt="Animated introduction"
 />
 
@@ -69,11 +69,15 @@
   <img src="https://img.shields.io/badge/WEATHER-147EFB?style=flat-square" alt="Weather" />
   <img src="https://img.shields.io/badge/CHECK--IN-3FCF8E?style=flat-square" alt="Check in" />
   <img src="https://img.shields.io/badge/SCHEDULE-61DAFB?style=flat-square" alt="Schedule" />
+  <img src="https://img.shields.io/badge/GAME-FFB800?style=flat-square" alt="Game" />
 </p>
 
 <br />
 
+<!-- ================================================== -->
 <!-- Projects Row 1: 4 Apps -->
+<!-- ================================================== -->
+
 <table align="center">
 
 <tr>
@@ -150,7 +154,11 @@
 
 </table>
 
-<!-- Projects Row 2: 3 Apps (Centered) -->
+<!-- ================================================== -->
+<!-- Projects Row 2: 4 Apps -->
+<!-- Tocobi / TeruBozu / SKKOO / ZESTOC -->
+<!-- ================================================== -->
+
 <table align="center">
 
 <tr>
@@ -200,6 +208,34 @@
 </a>
 &nbsp;
 <img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="SKKOO for Android" />
+</td>
+
+<!-- ZESTOC -->
+<td align="center" valign="top" width="145">
+<img src="./assets/zestoc_icon.png" width="68" height="68" alt="ZESTOC" />
+<br />
+<strong>ZESTOC</strong>
+<br />
+<img src="https://img.shields.io/badge/GAME-FFB800?style=flat-square" alt="Game" />
+<br />
+
+<!-- iOS: Replace with verified App Store URL -->
+<img
+  src="https://cdn.simpleicons.org/apple/8B949E"
+  width="22"
+  height="22"
+  alt="ZESTOC for iOS"
+/>
+&nbsp;
+
+<!-- Android: Replace with verified Google Play URL -->
+<img
+  src="https://cdn.simpleicons.org/android/3DDC84"
+  width="22"
+  height="22"
+  alt="ZESTOC for Android"
+/>
+
 </td>
 
 </tr>

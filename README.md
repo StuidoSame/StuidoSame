@@ -226,8 +226,6 @@
   height="22"
   alt="ZESTOC for iOS"
 />
-&nbsp;
-
 <!-- Android: Replace with verified Google Play URL -->
 <img
   src="https://cdn.simpleicons.org/android/3DDC84"

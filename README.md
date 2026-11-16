@@ -210,29 +210,6 @@
 <img src="https://cdn.simpleicons.org/android/3DDC84" width="22" height="22" alt="SKKOO for Android" />
 </td>
 
-<!-- ZESTOC -->
-<td align="center" valign="top" width="145">
-<img src="./assets/zestoc_icon.png" width="68" height="68" alt="ZESTOC" />
-<br />
-<strong>ZESTOC</strong>
-<br />
-<img src="https://img.shields.io/badge/GAME-FFB800?style=flat-square" alt="Game" />
-<br />
-
-<!-- iOS: Replace with verified App Store URL -->
-<img
-  src="https://cdn.simpleicons.org/apple/8B949E"
-  width="22"
-  height="22"
-  alt="ZESTOC for iOS"
-/>
-<!-- Android: Replace with verified Google Play URL -->
-<img
-  src="https://cdn.simpleicons.org/android/3DDC84"
-  width="22"
-  height="22"
-  alt="ZESTOC for Android"
-/>
 
 </td>
 
